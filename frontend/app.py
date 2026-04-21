@@ -1,7 +1,7 @@
 import streamlit as st
 import requests
 
-API_URL = "https://movie-suggestion-system-ok0f.onrender.com"
+API_URL = "https://movie-suggestion-system-ok0f.onrender.com/recommend/"
 
 st.set_page_config(page_title="Movie Recommender", layout="wide")
 
